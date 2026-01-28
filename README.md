@@ -4,19 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giorgi+Ubiria!;" />
 </h1>
 
-<h3 align="center">A passionate?!?!?! software developer from Georgia ɢᴇ</h3>
+<h3 align="center">A passionate?!?!?! software developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **CRM Platform**
+ 🔭 I’m currently working on **Restaurant Management System**
  
- 🌱 I’m currently learning **Docker, System Design, Database Design, Web Servers**
+ 🌱 I’m currently learning **Docker, System Design, Database Design**
 
-💬 Ask me about **Node.js, React, PHP, Go, C**
-
-⚡ Fun fact **My GF is my Sugar Momma**
+ 💬 Ask me about **Node.js, React, PHP, Go, C**
 
  </div>
  
